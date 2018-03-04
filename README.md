@@ -1,7 +1,7 @@
 # simple-cnn-keras-colaboratory
-Demo Tutorial to Build a Convolutional Neural Network with keras+google drive and google colaboratory (exploring Google's colab tool)
+Demo Tutorial to Build a Convolutional Neural Network with keras+google drive and google colaboratory (exploring Google's colab tool - https://colab.research.google.com/notebooks/welcome.ipynb)
 
-This guide is meant to be a simple tutorial which lets you take images classes, train a model with tensorflow and then predict a new image with your "intelligent" model.
+This guide is meant to be a simple tutorial which lets you take images classes, train a model with keras+tensorflow and then predict a new image with your "intelligent" model.
 
 Here is further explanation in a short medium post: https://medium.com/@chibuk/machine-learning-for-the-everyday-person-part-3-your-first-neural-network-744528595c65
 
